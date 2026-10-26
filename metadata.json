@@ -1,0 +1,6 @@
+{
+  "name": "ClinicPilot AI",
+  "description": "AI-powered clinic management and patient communication platform designed for small and medium-sized clinics in India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
